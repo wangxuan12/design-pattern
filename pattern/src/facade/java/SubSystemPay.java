@@ -1,3 +1,5 @@
+package facade.java;
+
 public class SubSystemPay {
     public boolean pay() {
         // do something

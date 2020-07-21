@@ -1,3 +1,5 @@
+package facade.java;
+
 public class SubSystemShipping {
     public String shipping() {
         // do something

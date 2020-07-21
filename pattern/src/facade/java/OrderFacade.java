@@ -1,3 +1,5 @@
+package facade.java;
+
 public class OrderFacade {
     private SubSystemCheckGoods subSystemCheckGoods;
     private SubSystemPay subSystemPay;
