@@ -1,4 +1,4 @@
-package facade.java;
+package structural.facade.java;
 
 public class OrderFacade {
     private SubSystemCheckGoods subSystemCheckGoods;

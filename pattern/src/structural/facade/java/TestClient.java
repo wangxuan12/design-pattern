@@ -1,4 +1,4 @@
-package facade.java;
+package structural.facade.java;
 
 public class TestClient {
     public static void main(String[] args) {

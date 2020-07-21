@@ -1,4 +1,4 @@
-package decorator.java;
+package structural.decorator.java;
 
 public abstract class AbstractFood {
     
