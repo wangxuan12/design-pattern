@@ -108,4 +108,5 @@ UML类图符号：
 字体是斜体 | abstract
 
 ### UML时序图
+简单的时序图，从网上找的，不知道出自谁了
 ![uml时序图](uml-sequence-diagram.jpg)
