@@ -90,3 +90,22 @@ GoF提出了23种设计模式，按照目的分为三类
 [观察者模式](pattern/src/behavioral/observer/readme.md)
 
 ## UML类图和时序图
+
+### UML类图
+
+大话设计模式uml类图：
+![大话设计模式uml类图](uml-class-diagram.png)
+
+UML类图符号：
+
+符号 | 说明 |
+---|---
++ | public
+- | private
+# | protected
+~ | default
+下面有横线 | static
+字体是斜体 | abstract
+
+### UML时序图
+![uml时序图](uml-sequence-diagram.jpg)
