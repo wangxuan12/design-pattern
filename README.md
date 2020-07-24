@@ -98,14 +98,14 @@ GoF提出了23种设计模式，按照目的分为三类
 
 UML类图符号：
 
-符号 | 说明 |
----|---
-+ | public
-- | private
-# | protected
-~ | default
-下面有横线 | static
-字体是斜体 | abstract
+| 符号 | 说明 |
+|---|---|
+| + | public |
+| - | private |
+| # | protected |
+| ~ | default |
+| 下面有横线 | static |
+| 字体是斜体 | abstract |
 
 ### UML时序图
 简单的时序图，从网上找的，不知道出自谁了
