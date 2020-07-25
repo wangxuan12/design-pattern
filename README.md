@@ -71,7 +71,9 @@ GoF提出了23种设计模式，按照目的分为三类
 解释器模式、
 [观察者模式](pattern/src/behavioral/observer/readme.md)、
 备忘录模式、
-命令模式、中介者模式、责任链模式、访问者模式、状态模式
+命令模式、中介者模式、
+[责任链模式](pattern/src/behavioral/chainofresponsibility/readme.md)、
+访问者模式、状态模式
 
 ### 常用设计模式
 常用设计模式有12种，一定要掌握好
