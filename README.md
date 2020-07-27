@@ -61,7 +61,8 @@ GoF提出了23种设计模式，按照目的分为三类
 [装饰者模式](pattern/src/structural/decorator/readme.md)、
 [适配器模式](pattern/src/structural/adapter/readme.md)、
 [享元模式](pattern/src/structural/flyweight/readme.md)、
-组合模式、桥接模式、
+组合模式、
+[桥接模式](pattern/src/structural/bridge/readme.md)、
 [代理模式](pattern/src/structural/proxy/readme.md)
 
 行为型：
