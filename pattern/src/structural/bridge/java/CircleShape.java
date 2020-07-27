@@ -6,9 +6,8 @@ public class CircleShape extends Shape {
     }
 
     @Override
-    public Color paint() {
+    public void draw() {
         System.out.print("画一个圆形,");
-        color.paint();
-        return color;
+        getColor().paint();
     }
 }

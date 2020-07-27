@@ -6,9 +6,8 @@ public class SquareShape extends Shape {
     }
 
     @Override
-    public Color paint() {
+    public void draw() {
         System.out.print("画一个方形,");
-        color.paint();
-        return color;
+        getColor().paint();
     }
 }

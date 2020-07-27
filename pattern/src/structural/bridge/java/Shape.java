@@ -1,10 +1,14 @@
 package structural.bridge.java;
 
 public abstract class Shape {
-    protected Color color;
+    private Color color;
     protected Shape(Color color) {
         this.color = color;
     }
 
-    public abstract Color paint();
+    public abstract void draw();
+
+    public Color getColor() {
+        return color;
+    }
 }
