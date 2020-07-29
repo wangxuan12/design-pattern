@@ -1,9 +1,9 @@
 package behavioral.command.java;
 
-public class Vedio {
+public class Video {
     private String name;
 
-    public Vedio(String name) {
+    public Video(String name) {
         this.name = name;
     }
 
